@@ -1,0 +1,19 @@
+{
+  "name": "ai-image-editor",
+  "version": "1.0.0",
+  "description": "Penpot addon for editing images with OpenAI API",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "dev": "echo 'Run in Penpot desktop app'"
+  },
+  "keywords": [
+    "penpot",
+    "addon",
+    "openai",
+    "image-editing"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

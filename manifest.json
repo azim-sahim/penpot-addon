@@ -1,0 +1,17 @@
+{
+  "id": "ai-image-editor",
+  "name": "AI Image Editor",
+  "description": "Edit images using OpenAI API directly from Penpot",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "license": "MIT",
+  "main": "src/index.js",
+  "engines": {
+    "penpot": ">=1.0.0"
+  },
+  "permissions": [
+    "selection:read",
+    "files:read",
+    "files:write"
+  ]
+}
